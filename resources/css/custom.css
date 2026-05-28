@@ -1,0 +1,16 @@
+body {
+    background: #f4f6f9;
+}
+
+.card {
+    border-radius: 0.85rem;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.navbar-brand {
+    letter-spacing: 0.2px;
+}
