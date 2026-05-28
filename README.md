@@ -1,6 +1,6 @@
-# Praktikum Laravel - Revisi Sesuai Panduan
+# Praktikum Laravel 
 
-Project ini sudah direvisi agar mengikuti panduan praktikum Laravel 2026:
+Praktikum Web Laravel 2026:
 
 - Routing dasar: `/`, `/halo`, `/mahasiswa/{nama}`, `/profil`, dan `/kalkulator/{angka1}/{angka2}`.
 - Controller `BarangController` dengan alur Route -> Controller -> View.
